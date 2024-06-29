@@ -1,6 +1,8 @@
 {
-"name": "Namiki-Associates Cardano Pool",
-"description": "This is Nami-Associates Cardano Pool",
-"ticker": "nmk",
-"homepage": "https://namiki-associates.co.jp/"
+    "name": "Namiki-Associates Cardano Pool",
+    "description": "This is Nami-Associates Cardano Pool",
+    "ticker": "nmk",
+    "homepage": "https://namiki-associates.co.jp/",
+    "extended": "",
+    "nonce":"1719635093"
 }
